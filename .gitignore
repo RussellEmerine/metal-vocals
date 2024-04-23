@@ -1,3 +1,16 @@
+## misc.
+# mac shenanigans
+.DS_Store 
+# vim
+*.swp 
+*.swo
+# emacs
+*~
+# ides
+.vscode
+.idea
+
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
