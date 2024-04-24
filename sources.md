@@ -1,5 +1,5 @@
 # Will Ramos
-All from (Operation: "Throat Camera")[https://www.youtube.com/watch?v=Ua8SuWNPrLE].
+All from <https://www.youtube.com/watch?v=Ua8SuWNPrLE>.
 - Low: 40:42
 - Mid: 39:23
 - High: 41:17
